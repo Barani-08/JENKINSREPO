@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo Hi Baraniii
+echo Hi Barani
