@@ -1,0 +1,3 @@
+#! /bin/bash
+
+echo hi..checks job is running or not.......
